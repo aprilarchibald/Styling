@@ -1,0 +1,18 @@
+h1 {
+    color: aqua;
+    background-color: black;
+    font-family: cursive;
+}
+h2 {
+    font-family: sans-serif;
+    background-color: rgb(131, 52, 131);
+    color: white;
+    text-align: center;
+    font-style: italic;
+    
+}
+h3 {
+    text-align: right;
+    background-color: rgb(104, 186, 236);
+    text-decoration: underline;
+}
